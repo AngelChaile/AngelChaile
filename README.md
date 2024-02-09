@@ -32,13 +32,10 @@
 
 - 📚 I am always researching **to update my knowledge.**
 
-<!-- - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
-
 - 💬 Ask me about **Html, Css, C#, Javascript, Php, Mysql**
 
 - 📫 Feel free to reach me out **angelchaile90@gmail.com**
 
-<!-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).-->
 <!--Intro end-->
 
 
@@ -110,15 +107,3 @@
 <a href="mailto:angelchaile90@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail"/></a>
   
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
