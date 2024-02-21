@@ -1,7 +1,4 @@
   
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc" align="center">
   <ul align="center">
@@ -9,12 +6,7 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
 
 
 <!--h2 without bottom border-->
