@@ -7,7 +7,7 @@
 </div>
 
 
-<img src="https://pixabay.com/get/g78a9dc608ff79a6fb04127b155bbdb4c1d6cc2cf65944cb2cbbcca4606e0b7785818130517a6e0375c0a14a56747b5cb0ae9151ea1de2e9451da6e58eb1ac61c_1280.jpg" width="1280" height="370"/>
+<img src="https://pixabay.com/get/g78a9dc608ff79a6fb04127b155bbdb4c1d6cc2cf65944cb2cbbcca4606e0b7785818130517a6e0375c0a14a56747b5cb0ae9151ea1de2e9451da6e58eb1ac61c_1280.jpg" width="1080" height="370"/>
 
 
 <!--h2 without bottom border-->
