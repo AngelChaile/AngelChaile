@@ -6,7 +6,13 @@
   </ul>
 </div>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+<!--<div align="center">
+  <img src="https://pixabay.com/get/gdd04692e4949b3ed4b938c74ef4df7871ad8d32ca4ce1ac1adb1c1a8a93f90efbebe5d99edde8374789838811b1a0ac3_1920.jpg" width="1650" height="250" />
+</div>-->
+
+<img src="https://pixabay.com/get/g69137e69d99f16e850c5e08ca2afe5709b5e249db16b560c6cdee75c4b89055107beff5db71e2031eab82bfd1ececebcdf385aacdb16618afa476ef0f257d5e4_1280.jpg"/>
+
+
 
 
 <!--h2 without bottom border-->
